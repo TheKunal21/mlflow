@@ -1,0 +1,6 @@
+build_dependencies:
+  - pip
+dependencies:
+  - mlflow==2.3.0
+  - scipy
+  - scikit-learn
